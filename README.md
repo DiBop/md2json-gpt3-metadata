@@ -40,6 +40,7 @@ A Python script that converts Markdown files into individual JSON files via the 
    ```
 
 ## Prerequisites
+- **Windows 11**
 - **Python 3.7+**
 - **OpenAI API Key**: Set up an API key from [OpenAI](https://beta.openai.com/signup/).
 - **Environment Variable Setup**: Add your OpenAI API key as an environment variable:
