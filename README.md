@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3-orange)
 
-A Python script that converts Markdown files into individual JSON files, enriched with metadata, including top keywords and GPT-3 embeddings. It uses OpenAI's API for semantic embeddings and provides robust error handling and retry logic to ensure reliability. Processed files are skipped automatically, making the script suitable for efficient batch processing of Markdown documents. This is ideal for use cases like **Retrieval-Augmented Generation (RAG)**, where informative content metadata is required.
+A Python script that converts Markdown files into individual JSON files via the Windows CLI, enriched with metadata, including top keywords and GPT-3 embeddings. It uses OpenAI's API for semantic embeddings and provides robust error handling and retry logic to ensure reliability. Processed files are skipped automatically, making the script suitable for efficient batch processing of Markdown documents. This is ideal for use cases like **Retrieval-Augmented Generation (RAG)**, where informative content metadata is required.
 
 ## Table of Contents
 - [Features](#features)
