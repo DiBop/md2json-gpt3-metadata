@@ -23,7 +23,7 @@ A Python script that converts Markdown files into individual JSON files via the 
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/md2json-gpt3-metadata.git
+   git clone https://github.com/DiBop/md2json-gpt3-metadata.git
    ```
 2. Navigate to the project directory:
    ```sh
