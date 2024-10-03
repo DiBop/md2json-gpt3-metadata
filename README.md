@@ -87,7 +87,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request to suggest improvements or bug fixes.
-
----
-
-This `README.md` includes a clear title, description, installation instructions, and all relevant information. The placeholders like "yourusername" or "your_openai_api_key_here" need to be replaced with actual values. The representative image link is a placeholder; you may replace it with an appropriate graphic that reflects the purpose of your repository.
